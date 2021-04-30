@@ -1,0 +1,10 @@
+.row{
+    margin-top: 25vh;
+}
+
+.header-text{
+    text-align: center;
+    margin-bottom: 100px;
+    color: rgb(59, 59, 59);
+    font-size: 100px;
+}
